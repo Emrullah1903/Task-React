@@ -22,19 +22,19 @@
   margin-bottom: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
-  display: block; /* Her input'u kendi satırına koyar */
+  display: block;
 }
 
 .task-form button {
-  width: 100%; /* Butonun genişliğini artırır */
-  padding: 15px 20px; /* Butonu büyütür */
+  width: 100%; 
+  padding: 15px 20px; 
   background-color: #4caf50;
   color: white;
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  display: block; /* Butonu kendi satırına koyar */
-  font-size: 16px; /* Font boyutunu artırır */
+  display: block; 
+  font-size: 16px; 
 }
 
 .task-form button:hover {
